@@ -1,0 +1,4 @@
+Avg. Household size per region: https://docs.google.com/spreadsheets/d/1YnfYidMCAt-nfWTXnkbHygbzVUqez-Q5SPvAH-9nGys/edit?usp=sharing
+Avg. workplace size per region: https://docs.google.com/spreadsheets/d/1bg6mr85Bb0qAwoEX7aoamHBgHL7bTiDhW1L9iIy0nBE/edit?usp=sharing
+Gyventojų tankis per regioną: https://docs.google.com/spreadsheets/d/1WRCvp-aUsEZpIhody5OB9lSMpMmZcJbK64IiEPrnRq8/edit?usp=sharing
+Nuolatiniai gyventojai pagal amžiaus grupes ir regionus: https://docs.google.com/spreadsheets/d/1D3hPUlloeeucDFTVo2cxEy23ienMA4OE9JT_uus7_EM/edit?usp=sharing
